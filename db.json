@@ -1,0 +1,4 @@
+User = [{"id": 1, "username": "test1","password":"xyz"}, {"id": 2, "username": "test2","password":"xyz"}]
+parents = [{"id": 1, "username": "test","password":"xyz"}, {"id": 2, "name": "Company Two"}]
+students = [{"id": 1, "username": "test","password":"xyz"}, {"id": 2, "name": "Company Two"}]
+institute = [{"id": 1, "username": "test","password":"xyz"}, {"id": 2, "name": "Company Two"}]
